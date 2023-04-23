@@ -21,9 +21,9 @@ function  getInput(){
         }
 }
 let page = document.querySelector(".page");
-let button = document.querySelector(".teme_button");
-button.onclick = function(){
+let button1 = document.querySelector(".teme_button");
+button1.onclick = function(){
         page.classList.toggle("light_teme");
         page.classList.toggle("dark_teme");
-        
+
 }
