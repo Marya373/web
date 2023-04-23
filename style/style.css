@@ -1,3 +1,24 @@
+.light_teme{
+    background-color: azure;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+.dark_teme{
+    background-color: rgb(210, 205, 215);
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+}
+.teme_button{
+    background-color: bisque;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+
 h1{
     background-color: blue;
 }

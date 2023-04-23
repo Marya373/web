@@ -20,3 +20,10 @@ function  getInput(){
                 alert(input);
         }
 }
+let page = document.querySelector(".page");
+let button = document.querySelector(".teme_button");
+button.onclick = function(){
+        page.classList.toggle("light_teme");
+        page.classList.toggle("dark_teme");
+        
+}
