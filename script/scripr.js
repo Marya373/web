@@ -11,3 +11,12 @@ if (confirm("Вам есть 18 лет?")){
 } else {
         alert("Придется зайти немного попозже");
 }
+
+function  getInput(){
+        var input = document.getElementById("myInput").value;
+        if (document.getElementById("myInput").value === ""){
+                alert("Вы ничего не ввели.");
+        }else{
+                alert(input);
+        }
+}
