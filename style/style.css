@@ -1,0 +1,26 @@
+h1{
+    background-color: blue;
+}
+html {
+    background-image: url(https://avatars.mds.yandex.net/i?id=d3a7779e45a4e074a3229b78fd398b23a95b0d9d-9225226-images-thumbs&n=13);
+    font-family: cursive;
+    text-align: center;
+    background-size: 100% 100%;
+}
+h3, ol, ul
+{
+    text-align: left;
+}
+ol, ul{
+    border-style: ridge;
+    border-radius: 20px;
+}
+h1{
+    color: aquamarine;
+    text-shadow: 5px 5px 5px rebeccapurple;
+}
+.h3_web_class{
+    color: rgb(44, 68, 60);
+    text-shadow: 5px 5px 5px rebeccapurple;
+}
+
