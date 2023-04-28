@@ -1,0 +1,42 @@
+{
+  "students": {
+    "students": [
+      {
+        "id": "1",
+        "name": "Marya",
+        "age": "35",
+        "address": "Moscow"
+      },
+      {
+        "id": "2",
+        "name": "Petr",
+        "age": "25",
+        "address": "Moscow"
+      },
+      {
+        "id": "3",
+        "name": "Ksenya",
+        "age": "23",
+        "address": "Moscow"
+      },
+      {
+        "id": "4",
+        "name": "Ivan",
+        "age": "21",
+        "address": "Piter"
+      },
+      {
+        "id": "5",
+        "name": "Egor",
+        "age": "18",
+        "address": "krasnodar"
+      },
+      {
+        "id": "6",
+        "name": "Ivan",
+        "age": "36",
+        "address": "Samara"
+      }
+    ]
+  }
+}
