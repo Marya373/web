@@ -1,10 +1,11 @@
+--create
 create table Class (
 id integer primary key,
 name text not null,
 age integer not null,
 address text not null
 );
-
+--insert
 insert into Class values (1, 'Marya', 35, 'Moscow');
 insert into Class values (2, 'Petr', 25, 'Moscow');
 insert into Class values (3, 'Ksenya', 23, 'Moscow');
